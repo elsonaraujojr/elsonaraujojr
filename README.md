@@ -6,7 +6,7 @@ Software Developer with graduated in Computing at Centro Universitário Estácio
 
 ## Contact me 📫
 - Email: elson.araujo.bw@gmail.com
-- Linkedin: https://www.linkedin.com/in/zugzwangbw
+- Linkedin: https://www.linkedin.com/in/elsonaraujojr
 - Telegram: https://t.me/elsonaraujojr
 
 <!--
