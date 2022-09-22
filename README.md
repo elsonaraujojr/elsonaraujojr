@@ -26,7 +26,7 @@
 
 <p align="left">
 
-  <a href="#elson.araujo.bw@gmail.com" alt="Gmail">
+  <a href="mail:elson.araujo.bw@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:elson.araujo.bw@gmail.com" />
   </a>
 
@@ -50,11 +50,12 @@
 
   <a href="https://github.com/elsonaraujojr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsonaraujojr&layout=compact&theme=dark"/>
-  </a>
+  </a><br/>
 
   <a href="https://github.com/elsonaraujojr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsonaraujojr&show_icons=true&theme=dark"/>
   </a>
+
 </p>
 
 <!-- ### Licenses and certificates
