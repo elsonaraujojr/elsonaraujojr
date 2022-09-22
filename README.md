@@ -26,7 +26,7 @@
 
 <p align="left">
 
-  <a href="mail:elson.araujo.bw@gmail.com" alt="Gmail">
+  <a href="mailto:elson.araujo.bw@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:elson.araujo.bw@gmail.com" />
   </a>
 
