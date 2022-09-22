@@ -24,25 +24,9 @@
   I will be happy to help you. 📫
 </p>
 
-<p align="left">
-
-  <a href="mailto:elson.araujo.bw@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:elson.araujo.bw@gmail.com" />
-  </a>
-
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elsonaraujojr" />
-  </a>
-
-  <a href="#" alt="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/elsonaraujojr"/>
-  </a>
-
-  <!-- <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/elsonaraujojr"/>
-  </a> -->
-
-</p>
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elson.araujo.bw@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsonaraujojr)
+[![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elsonaraujojr)
 
 ## **GitHub Estatísticas**
 
